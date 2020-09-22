@@ -1,0 +1,37 @@
+body{
+    background-color:ghostwhite;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 50pt;
+    background-color:lightblue;
+}
+
+h2{
+    font-size:20pt;
+
+}
+h3{
+    font-size:20pt;
+    float:right;
+    position:relative;
+    top:10px;
+    right:200px
+    
+   
+}
+p{
+    background-color: lightblue;
+    width:500px;
+    float:right;
+    position:relative;
+    bottom:80px;
+    font-family:sans-serif
+}
+ 
+    
+}
+
+    
+
